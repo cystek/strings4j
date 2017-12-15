@@ -1,0 +1,1 @@
+strings4j is a Java implementation of string extraction from binary files.
